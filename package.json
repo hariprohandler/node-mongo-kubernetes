@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-mongodb-kubernetes",
+  "version": "1.0.0",
+  "description": "nodejs-mongodb-kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "yashsharma205@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  }
+}
